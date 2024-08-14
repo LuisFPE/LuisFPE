@@ -31,6 +31,21 @@
 </div>                                                                                      
 </td>
 
+<td width="50%">
+<h3 align="center">Spaghetti Lovers</h3>
+<div align="center">
+<a href="https://github.com/LuisFPE/SpaghettiLovers" target="_blank">
+<img src="https://i.imgur.com/l8Clmfs.png" title="source: imgur.com" />
+</a>
+<p>
+<a href="https://github.com/LuisFPE/SpaghettiLovers" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+<p>Es un proyecto de React y Sass que se conecta a la API de SpaghettiApi, después de registrarse/loguearse y permite a los usuarios de la red ver recetas de spaghettis de otros usuarios, así como también publicar sus propias recetas y añadirle ingredientes para que los demás las vean.</p>
+</div>                                                                                      
+</td>
+
 
 </table>                                                                                 
 </div>
