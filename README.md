@@ -41,7 +41,7 @@
 </a>
 <p>
 <a href="https://github.com/LuisFPE/BuscarPokemonOnline.com" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=white&labelColor=rgb(204, 133, 255)&color=rgb(204, 133, 255)">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=white&labelColor=rgb(38, 109, 211)&color=rgb(38, 109, 211)">
 </a>
 </p>
 <p>Es un proyecto de html, css y javascript vanilla que se conecta a la API pública de pokeapi v2 y extrae toda la informacion de un pokemon especifico mostrando su nombre, tipos, imagen, descripción, estadísticas y los movimientos que aprende, para mostrar las estadisticas se usa canvas y charts.js</p>
@@ -60,7 +60,7 @@
 </a>
 <p>
 <a href="https://github.com/LuisFPE/SpaghettiApi" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=white&labelColor=rgb(204, 133, 255)&color=rgb(204, 133, 255)">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=white&labelColor=rgb(38, 109, 211)&color=rgb(38, 109, 211)">
 </a>
 </p>
 <p>Es un proyecto de backend en el que creo mi propia Api usando MongoDB, Node.js, Express.js, en esta api se utiliza JSON Web Token para que se pueda registrar y loguear usuarios, una ves el usuario este logueado puede obtener la lista de recetas de spaghettis, añadir sus propias recetas, ingredientes y agregar ingredientes a una receta.</p>
@@ -98,7 +98,7 @@
 </a>
 <p>
 <a href="https://github.com/LuisFPE/explorer-house" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=white&labelColor=rgb(204, 133, 255)&color=rgb(204, 133, 255)">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=white&labelColor=rgb(38, 109, 211)&color=rgb(38, 109, 211)">
 </a>
 </p>
 <p>Es un proyecto de backend y frontend en equipo en el cual los usuarios base pueden registrarse y loguearse para luego ver las propiedades inmobiliarias disponibles, pueden pedir una cita o mandarle un mensaje al vendedor, los vendedores pueden publicar propiedades, aceptar/denegar citas y responder mensajes.</p>
