@@ -13,6 +13,16 @@
 - 💼 En busca de de empeleo
 <br>
 
+## Tecnologías conocidas
+<!--tech stack icons-->
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,bash,html,css,js,git,github,docker,npm,nodejs,express,mysql,mongodb,postman,vite,react,sass,linkedin&perline=12" />
+  </a>
+</p>
+<br>
+<!-------------------------->
+
 ## Mis Proyectos 
 <table>
 <tr>
