@@ -5,10 +5,11 @@
 
 ## Sobre mi
  
-- 📲 Web developer
+- 🧑‍💻 Web developer
 - 🤵‍♂️ Orientado principalmente a el Front End 
-- 👨‍🔧 Poseeo algunos conocimientos de Back End 
-- 📍 Actualmente en Bilbao España
+- 👨‍🔧 Poseeo algunos conocimientos de Back End
+- 🖥️ Dominio de vistas de sobremesa
+- 📲 Dominio de vistas de móviles
 - 💼 En busca de de empeleo
 <br>
 
