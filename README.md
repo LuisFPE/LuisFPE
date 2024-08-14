@@ -15,9 +15,9 @@
 
 ## Tecnologías conocidas
 <!--tech stack icons-->
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,bash,html,css,js,git,github,docker,npm,nodejs,express,mysql,mongodb,postman,vite,react,sass,linkedin&perline=12" />
+    <img src="https://skillicons.dev/icons?i=vscode,bash,html,css,js,git,github,docker,npm,nodejs,express,mysql,mongodb,postman,vite,react,sass,linkedin&perline=9" />
   </a>
 </p>
 <br>
