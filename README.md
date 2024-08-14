@@ -88,4 +88,42 @@
 </div>
 <br>
 
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Explorer House</h3>
+<div align="center">
+<a href="https://github.com/LuisFPE/explorer-house" target="_blank">
+<img src="https://i.imgur.com/7XRieMK.png" title="source: imgur.com" />
+</a>
+<p>
+<a href="https://github.com/LuisFPE/explorer-house" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=white&labelColor=rgb(204, 133, 255)&color=rgb(204, 133, 255)">
+</a>
+</p>
+<p>Es un proyecto de backend y frontend en equipo en el cual los usuarios base pueden registrarse y loguearse para luego ver las propiedades inmobiliarias disponibles, pueden pedir una cita o mandarle un mensaje al vendedor, los vendedores pueden publicar propiedades, aceptar/denegar citas y responder mensajes.</p>
+</div>
+                                                                                      
+</td>       
+
+<td width="50%">
+<h3 align="center">BackEnd of the Rings</h3>
+<div align="center">
+<a href="https://github.com/LuisFPE/BackendOfTheRings" target="_blank">
+<img src="https://i.imgur.com/0cPTQVh.png" title="source: imgur.com" />
+</a>
+<p>
+<a href="https://github.com/LuisFPE/BackendOfTheRings" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=white&labelColor=rgb(204, 133, 255)&color=rgb(204, 133, 255)">
+</a>
+</p>
+<p>Es un proyecto de backend y frontend en equipo en el cual los usuarios pueden registrarse y loguearse para luego con una selección hacer que 2 personajes peleen pueden usar los predefinidos a agregar los suyos propios, luego se muestra la información y como pelean los personajes elegidos.</p>
+
+</div>
+                                                                                      
+</td>  
+</table>                                                                                 
+</div>
+<br>
+
 
